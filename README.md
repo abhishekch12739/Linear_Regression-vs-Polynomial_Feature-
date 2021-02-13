@@ -2,4 +2,4 @@
 
 This is a comparison between two regression model to check the accuracy 
 
-DataSet= Position_csv
+DataSet= Position_Salaries.csv
